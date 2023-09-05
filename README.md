@@ -8,31 +8,38 @@ After Activating Django Virtual Environment,
 
 Then at First Have to Clone this repostiory
 
-
-
-
 ![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/c98e597d-2bf9-4551-a3f1-ec92de8a923a)
 
 
 
 
 
-Then, my working directory is  Libray_Management
+Then, my working directory is  LibraryManagementSystem
 
-![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/73e16d5c-f158-4bdb-aba0-e0f0b33e073a)
+![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/00ccbfec-5ac1-4931-bd87-cd7678c0ab18)
+
+
 
 run the server by the command py manage.py runserver
 backend(django)
-![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/8762fb17-7361-4741-80af-53284bc368ca)
+![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/06774dd7-f974-45df-96a9-24729d4d790b)
+
+The server is deployed at http://127.0.0.1:8000
+
+![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/462d5d43-2f3d-4615-8259-4d654d19754a)
+
+I have build files in ui/build directory
+![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/9818088b-1082-4db9-9528-1d4d56d9375c)
 
 
-To start the React Server
+To start the React Server manually ,
 
-Go to ui in LibraryManagement
+Go to ui in LibraryManagementSystem
 
 i.e:
 
 ![image](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/93891bc0-557b-43cb-a5b4-7086e1e46f33)
+
 
 it's starts the server
 
