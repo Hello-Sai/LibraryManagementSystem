@@ -119,16 +119,9 @@ When we click order button we get message as ORDER successfully Placed
 
 ![Screenshot 2023-09-05 122754](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/85540ac5-d644-45d7-b204-a4a4926af745)
 
-I was not able to Display all the Data ,
-Due to multiple rendering issue of the react browser , without  executing rest of the instructions  due to it's newer Version. (react V6)
 
-But Fetching of data is success.
 
-I am trying hardly to get rid of this error.
 
-![Screenshot 2023-09-05 123204](https://github.com/Hello-Sai/LibraryManagementSystem/assets/90458132/d404e527-66a3-4faa-b825-a13ac75ddaa4)
-
-But i will definitely do it and I am currently learning redux also to merge this problem with reduxtoolkit solution.
 
 
 I Hope this Project should be Helpful in getting me hired.
