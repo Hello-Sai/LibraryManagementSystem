@@ -122,12 +122,8 @@ When we click order button we get message as ORDER successfully Placed
 
 
 
-
-
-I Hope this Project should be Helpful in getting me hired.
-
 ThankYou,
-for Giving this Oppurtunity.
+for Taking time to look at my project.
 
 
 
